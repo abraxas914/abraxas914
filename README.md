@@ -8,7 +8,7 @@
   </p>
 </div>
 
-- 🧭 journey: tech VC × AI product engineering
+- 🧭 journey: tech VC × AI product engineering × FDE
 - 🧠 playing hard with machine intelligence
 - 🔬 interested in agent evals and post-training data pipelines
 - ✨ open source: [GenericAgent](https://github.com/lsdefine/GenericAgent) — Core contributor
